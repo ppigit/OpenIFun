@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: OpenIFun: Open Data Science for Input Functions for PET parametric imaging
 author:
-  name: Evan Will
+  name: Guobao Wang
   email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+description: "OpenIFun is a part of the OpenData effort from the Open Kinetic Modeling Initiative (www.openkmi.org)."
 
 # Build settings
 remote_theme: jekyll/minima
